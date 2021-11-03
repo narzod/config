@@ -1,4 +1,4 @@
-module github.com/golobby/config/v3
+module github.com/narzod/config/v3
 
 go 1.11
 
